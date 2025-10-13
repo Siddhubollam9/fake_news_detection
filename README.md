@@ -1,9 +1,3 @@
-Perfect, Siddharth 👑 — since you’ve completed the entire **Fake News Detection using Machine Learning** project and the Streamlit app is working, let’s now create your **GitHub `README.md`** file.
-
-This README will make your project look **professional, recruiter-friendly, and portfolio-ready**, exactly what companies want when checking your profile.
-
-Here’s your **complete README.md (you can copy-paste directly into GitHub):**
-
 ---
 
 # 📰 Fake News Detection using Machine Learning
